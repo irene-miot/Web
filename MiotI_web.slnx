@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MiotI_web.vcxproj" Id="7b5fa97f-8b6d-4078-8f05-689f3a358d7b" />
+</Solution>
